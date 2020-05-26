@@ -1,5 +1,4 @@
 
-
 #define N 7
 #include <stdbool.h>
 #include <stdio.h>
